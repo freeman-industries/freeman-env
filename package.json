@@ -1,0 +1,25 @@
+{
+  "name": "freeman-env",
+  "version": "1.0.0",
+  "description": "simple function wrapper for code to only be run in production or development",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/freeman-industries/freeman-env.git"
+  },
+  "keywords": [
+    "env",
+    "production",
+    "development",
+    "conditional"
+  ],
+  "author": "nabil freeman (nabil@instafork.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/freeman-industries/freeman-env/issues"
+  },
+  "homepage": "https://github.com/freeman-industries/freeman-env#readme"
+}
