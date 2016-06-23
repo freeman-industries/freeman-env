@@ -3,6 +3,10 @@
 //var env = require('freeman-env');
 //env.production(function(){ //production only code here });
 module.exports = {
+    get: function(){
+        return process.env.NODE_ENV;
+    },
+
     development: function(callback){
         if(process.env.NODE_ENV === "development"){
             callback();
