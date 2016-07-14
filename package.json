@@ -1,6 +1,6 @@
 {
   "name": "freeman-env",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "simple function wrapper for code to only be run in production or development",
   "main": "index.js",
   "scripts": {
