@@ -38,6 +38,6 @@ switch(env()){
 ```
 
 # notes
-If you don't have process.env.NODE_ENV defined, nothing will happen.
+If you don't have `process.env.NODE_ENV` defined, nothing will happen.
 
-You can define process.env.NODE_ENV to any string value and test against it. Here are some ideas: `staging`, `test`, `development`, etc.
+You can define `process.env.NODE_ENV` to any string value and test against it. Here are some ideas: `staging`, `test`, `development`, etc.
