@@ -1,6 +1,6 @@
 {
   "name": "freeman-env",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "simple function wrapper for code to only be run in production or development",
   "main": "index.js",
   "scripts": {
@@ -16,7 +16,7 @@
     "development",
     "conditional"
   ],
-  "author": "nabil freeman (nabil@instafork.com)",
+  "author": "Freeman Industries <nabil@instafork.com> (http://freemans.website)",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/freeman-industries/freeman-env/issues"
